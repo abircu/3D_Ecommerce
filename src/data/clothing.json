@@ -1,0 +1,247 @@
+{
+  "brand": {
+    "name": "VELORA",
+    "tagline": "Wear the motion.",
+    "announcement": "Free shipping on orders over $80 · 30-day easy returns · New Winter '26 drop is live"
+  },
+  "hero": {
+    "kicker": "Winter '26 Collection",
+    "title": ["Made to", "move with", "you."],
+    "copy": "Heavyweight organic cotton, cut in our studio and finished by hand. Drag the tee, pick a color, make it yours.",
+    "colors": [
+      { "name": "Ember", "hex": "#ff5a36" },
+      { "name": "Bone", "hex": "#ece5d8" },
+      { "name": "Onyx", "hex": "#1d1d21" },
+      { "name": "Sage", "hex": "#8fa58a" },
+      { "name": "Cobalt", "hex": "#3651d4" }
+    ],
+    "badges": ["240 GSM cotton", "Garment dyed", "Unisex fit"]
+  },
+  "categories": ["All", "Men", "Women", "Streetwear"],
+  "products": [
+    {
+      "id": "essential-tee",
+      "name": "Essential Cotton Tee",
+      "category": "Men",
+      "price": 29,
+      "oldPrice": 39,
+      "tag": "Bestseller",
+      "rating": 4.8,
+      "reviews": 1243,
+      "colors": ["#f2efe9", "#1d1d21", "#8fa58a"],
+      "sizes": ["S", "M", "L", "XL"],
+      "images": ["photo-1521572163474-6864f9cf17ab", "photo-1529374255404-311a2a4f1fd9"]
+    },
+    {
+      "id": "midnight-tee",
+      "name": "Midnight Graphic Tee",
+      "category": "Streetwear",
+      "price": 34,
+      "tag": "New",
+      "rating": 4.7,
+      "reviews": 512,
+      "colors": ["#1d1d21", "#f2efe9"],
+      "sizes": ["S", "M", "L", "XL"],
+      "images": ["photo-1583743814966-8936f5b7be1a", "photo-1618354691373-d851c5c3a990"]
+    },
+    {
+      "id": "cloud-hoodie",
+      "name": "Cloud Fleece Hoodie",
+      "category": "Streetwear",
+      "price": 68,
+      "tag": "Trending",
+      "rating": 4.9,
+      "reviews": 860,
+      "colors": ["#9aa0a6", "#f2efe9", "#2b2d42"],
+      "sizes": ["S", "M", "L", "XL"],
+      "images": ["photo-1556821840-3a63f95609a7", "photo-1620799140408-edc6dcb6d633"]
+    },
+    {
+      "id": "rider-jacket",
+      "name": "Rider Leather Jacket",
+      "category": "Men",
+      "price": 249,
+      "tag": "Premium",
+      "rating": 4.9,
+      "reviews": 214,
+      "colors": ["#141414", "#6b3f2a"],
+      "sizes": ["M", "L", "XL"],
+      "images": ["photo-1551028719-00167b16eac5", "photo-1487222477894-8943e31ef7b2"]
+    },
+    {
+      "id": "camel-trench",
+      "name": "Camel Belted Trench",
+      "category": "Women",
+      "price": 189,
+      "oldPrice": 229,
+      "tag": "Sale",
+      "rating": 4.8,
+      "reviews": 389,
+      "colors": ["#b5844f", "#6e1f2b"],
+      "sizes": ["XS", "S", "M", "L"],
+      "images": ["photo-1539533018447-63fcce2678e3", "photo-1483985988355-763728e1935b"]
+    },
+    {
+      "id": "riviera-dress",
+      "name": "Riviera Maxi Dress",
+      "category": "Women",
+      "price": 119,
+      "tag": "New",
+      "rating": 4.7,
+      "reviews": 177,
+      "colors": ["#d7263d", "#f2efe9"],
+      "sizes": ["XS", "S", "M", "L"],
+      "images": ["photo-1595777457583-95e059d581b8", "photo-1496747611176-843222e1e57c"]
+    },
+    {
+      "id": "selvedge-denim",
+      "name": "Selvedge Straight Denim",
+      "category": "Men",
+      "price": 89,
+      "tag": "Core",
+      "rating": 4.6,
+      "reviews": 702,
+      "colors": ["#2c3e66", "#141414"],
+      "sizes": ["30", "32", "34", "36"],
+      "images": ["photo-1542272604-787c3835535d", "photo-1541099649105-f69ad21f3246"]
+    },
+    {
+      "id": "copper-bomber",
+      "name": "Copper Satin Bomber",
+      "category": "Streetwear",
+      "price": 129,
+      "tag": "Limited",
+      "rating": 4.8,
+      "reviews": 96,
+      "colors": ["#c9744b", "#3b4a32"],
+      "sizes": ["S", "M", "L", "XL"],
+      "images": ["photo-1591047139829-d91aecb6caea", "photo-1544022613-e87ca75a784a"]
+    },
+    {
+      "id": "chambray-dress",
+      "name": "Chambray Shirt Dress",
+      "category": "Women",
+      "price": 79,
+      "tag": "Core",
+      "rating": 4.5,
+      "reviews": 268,
+      "colors": ["#6f8fb5", "#f2efe9"],
+      "sizes": ["XS", "S", "M", "L"],
+      "images": ["photo-1591369822096-ffd140ec948f", "photo-1596755094514-f87e34085b2c"]
+    },
+    {
+      "id": "sherpa-denim",
+      "name": "Sherpa Denim Jacket",
+      "category": "Men",
+      "price": 139,
+      "tag": "Trending",
+      "rating": 4.8,
+      "reviews": 331,
+      "colors": ["#22324f", "#7a5c3a"],
+      "sizes": ["M", "L", "XL"],
+      "images": ["photo-1611312449408-fcece27cdbb7", "photo-1516826957135-700dedea698c"]
+    },
+    {
+      "id": "sunset-knit",
+      "name": "Sunset Crew Knit",
+      "category": "Women",
+      "price": 74,
+      "oldPrice": 92,
+      "tag": "Sale",
+      "rating": 4.7,
+      "reviews": 445,
+      "colors": ["#f28c28", "#f2efe9"],
+      "sizes": ["XS", "S", "M", "L"],
+      "images": ["photo-1578587018452-892bacefd3f2", "photo-1434389677669-e08b4cac3105"]
+    },
+    {
+      "id": "tailored-blazer",
+      "name": "Houndstooth Blazer",
+      "category": "Women",
+      "price": 159,
+      "tag": "Premium",
+      "rating": 4.9,
+      "reviews": 121,
+      "colors": ["#8d8d8d", "#141414"],
+      "sizes": ["XS", "S", "M", "L"],
+      "images": ["photo-1608234808654-2a8875faa7fd", "photo-1509631179647-0177331693ae"]
+    }
+  ],
+  "collections": [
+    {
+      "id": "men",
+      "title": "Men",
+      "subtitle": "Sharp layers, soft hands",
+      "count": 48,
+      "image": "photo-1552374196-1ab2a1c593e8"
+    },
+    {
+      "id": "women",
+      "title": "Women",
+      "subtitle": "Fluid cuts for every hour",
+      "count": 62,
+      "image": "photo-1485968579580-b6d095142e6e"
+    },
+    {
+      "id": "street",
+      "title": "Streetwear",
+      "subtitle": "Loud color, heavy cotton",
+      "count": 35,
+      "image": "photo-1515886657613-9f3515b0c78f"
+    }
+  ],
+  "lookbook": [
+    { "image": "photo-1509631179647-0177331693ae", "label": "Look 01" },
+    { "image": "photo-1487222477894-8943e31ef7b2", "label": "Look 02" },
+    { "image": "photo-1485968579580-b6d095142e6e", "label": "Look 03" },
+    { "image": "photo-1515886657613-9f3515b0c78f", "label": "Look 04" },
+    { "image": "photo-1516826957135-700dedea698c", "label": "Look 05" },
+    { "image": "photo-1617137968427-85924c800a22", "label": "Look 06" },
+    { "image": "photo-1469334031218-e382a71b716b", "label": "Look 07" },
+    { "image": "photo-1552374196-1ab2a1c593e8", "label": "Look 08" },
+    { "image": "photo-1503342217505-b0a15ec3261c", "label": "Look 09" },
+    { "image": "photo-1483985988355-763728e1935b", "label": "Look 10" }
+  ],
+  "stats": [
+    { "value": 120, "suffix": "K+", "label": "Happy customers" },
+    { "value": 340, "suffix": "+", "label": "Pieces designed" },
+    { "value": 48, "suffix": "", "label": "Countries shipped" },
+    { "value": 98, "suffix": "%", "label": "5-star reviews" }
+  ],
+  "features": [
+    { "icon": "truck", "title": "Free shipping", "text": "On every order over $80, tracked to your door." },
+    { "icon": "return", "title": "30-day returns", "text": "Not right? Send it back, no questions asked." },
+    { "icon": "leaf", "title": "Organic cotton", "text": "GOTS-certified fibre, low-impact dyes." },
+    { "icon": "lock", "title": "Secure checkout", "text": "Encrypted payments with every major card." }
+  ],
+  "testimonials": [
+    {
+      "name": "Ayesha R.",
+      "role": "Verified buyer · Dhaka",
+      "text": "The hoodie is unreal — thick, soft and the color hasn't faded after twenty washes.",
+      "avatar": "photo-1494790108377-be9c29b29330",
+      "rating": 5
+    },
+    {
+      "name": "Marcus L.",
+      "role": "Verified buyer · Berlin",
+      "text": "Finally a tee that keeps its shape. Ordered three more colors the same week.",
+      "avatar": "photo-1507003211169-0a1dd7228f2d",
+      "rating": 5
+    },
+    {
+      "name": "Sofia M.",
+      "role": "Verified buyer · Milan",
+      "text": "The trench fits like it was made for me. Packaging and delivery were beautiful too.",
+      "avatar": "photo-1438761681033-6461ffad8d80",
+      "rating": 5
+    },
+    {
+      "name": "Daniel K.",
+      "role": "Verified buyer · Toronto",
+      "text": "Leather jacket broke in perfectly. Easily the best piece in my wardrobe now.",
+      "avatar": "photo-1500648767791-00dcc994a43e",
+      "rating": 4
+    }
+  ]
+}
